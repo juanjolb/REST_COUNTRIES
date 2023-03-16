@@ -1,0 +1,10 @@
+@import "./base.css";
+
+#app {
+  margin: 0 auto;
+}
+
+#app .app-container-light {
+    background-color: var(--very-light-gray);
+    padding: 2rem;
+}
